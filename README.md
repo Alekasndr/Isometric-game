@@ -5,7 +5,7 @@ Have a pathfinder system, animation system and AI system.
 <img width="1280" alt="обычный" src="https://user-images.githubusercontent.com/39558743/189292831-721297e0-2241-4d1f-bdd5-681d0092aed3.png">
 <br />
 <br />
-Here we have tree cut system with animation.
+Here we have a tree cutting system with animation.
 <img width="768" alt="Плеер" src="https://user-images.githubusercontent.com/39558743/189293029-cf30301f-6992-431f-8fa6-7795e1a24794.png">
 <br />
 <br />
