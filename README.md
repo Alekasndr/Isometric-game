@@ -18,3 +18,5 @@ Cloth system with ui for cloth changes.
 <img width="768" alt="Одежда" src="https://user-images.githubusercontent.com/39558743/189293104-0d6d27c1-fbb1-48cb-9892-257300d9e8cb.png">
 <img width="768" alt="Кнопки" src="https://user-images.githubusercontent.com/39558743/189293114-3ef22d14-696c-490f-933a-032df41ed56e.png">
 
+# How to build this project:
+Need JDK 11+ and ide)
