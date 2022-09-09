@@ -1,6 +1,7 @@
 # Isometric-game
 This is prototype of Isometric game.<br />
-Writing on libGDX using entity component system. Have pathfinder system, animation systemp, and AI system.
+Writing on libGDX using entity component system. <br />
+Have pathfinder system, animation systemp, and AI system.
 <img width="1280" alt="обычный" src="https://user-images.githubusercontent.com/39558743/189292831-721297e0-2241-4d1f-bdd5-681d0092aed3.png">
 <br />
 <br />
