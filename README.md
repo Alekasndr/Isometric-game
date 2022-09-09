@@ -9,7 +9,7 @@ Here we have tree cut system with animation.
 <img width="768" alt="Плеер" src="https://user-images.githubusercontent.com/39558743/189293029-cf30301f-6992-431f-8fa6-7795e1a24794.png">
 <br />
 <br />
-Ai system with mobs, witch can cut trees and return with timber bakc to their place.
+Ai system with mobs, witch can cut trees and return with timber back to their place.
 <img width="768" alt="Рубить" src="https://user-images.githubusercontent.com/39558743/189293453-94436434-cb92-41d7-ac37-58d151cc3456.png">
 <img width="768" alt="Возвращается" src="https://user-images.githubusercontent.com/39558743/189293473-ce3a19e9-a27a-4d77-8dbe-ea0536080b70.png">
 <br />
